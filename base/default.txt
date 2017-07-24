@@ -1,13 +1,13 @@
-*Repro Steps:* \n
-# \n
-# \n
-# \n
-\n
-*Expected:* \n
-\n
-*Actual:* \n
-\n
-\n
+*Repro Steps:*
+#
+#
+#
+
+*Expected:*
+
+*Actual:*
+
+
 *Impact*:
-\n
-\n
+
+
