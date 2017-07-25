@@ -10,4 +10,3 @@
 
 *Impact*:
 
-DEFAULT WEB
