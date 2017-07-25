@@ -11,8 +11,8 @@ Repository to hold templates for descriptions of various types of JIRA tickets (
 The template with the most specificity will be used over the more generic template. A specific project wins over a specific task type.
 
 ### Examples
-- `/WEB/Bug.txt` would be used for any Bugs created under the WEB JIRA project and will trump all other templates.
-- `/WEB/default.txt` will be used over `/default/Bug.txt`
-- Lastly `/default/default.txt` will be used if there is not a template defined for the project or task type.
+- If `/WEB/Bug.txt` is defined, then it will be used for all Bugs under WEB.
+- If `/WEB/default.txt` and `/default/Bug.txt` are defined then `/WEB/default.txt` will be used for all Bugs under WEB.
+- If none of the following are defined: `/WEB/Bug.txt`, `/WEB/default.txt`, `/default/Bug.txt`, then `/default/default.txt` will be used for all Bugs under WEB.
 
 Note: This is a public repository
