@@ -9,5 +9,5 @@ What’s the customer’s current solution to the problem?
 
 What are the problems with the customer’s current solution?
 
-Who are there specific customers who would benefit from this feature?
+Name or describe the specific customers who would benefit from this feature.
 
