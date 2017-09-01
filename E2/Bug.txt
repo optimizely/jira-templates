@@ -1,0 +1,17 @@
+# General Summary
+
+*Affected system or service:*
+
+*Expected behavior:*
+
+*Actual behavior:*
+
+## Examples
+Please include direct links to Spinnaker, Jenkins, or a logging system.
+
+# Additional Details
+*Repro Steps:*
+#
+#
+#
+
