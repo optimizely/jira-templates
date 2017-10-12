@@ -1,0 +1,18 @@
+*Repro Steps:*
+#
+#
+#
+
+*Expected:*
+
+*Actual:*
+
+
+*Impact*:
+What browser/versions are affected? (e.g., IE10)
+
+How many of the customer's visitors are experiencing the issue?
+Absolute (e.g., 1000 per week), relative total (2% of impressions), and
+relative by browser (99% of IE10, 3% of Chrome) are all helpful.
+
+
