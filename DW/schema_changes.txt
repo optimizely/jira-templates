@@ -9,3 +9,4 @@
 
 *Schema doc link*:
 
+# Refer go/dw-schema for DW documentation
