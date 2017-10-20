@@ -1,0 +1,16 @@
+*Schema changes to propagate to DW:*
+
+*In case new model is being introduced, specify*
+||Source model name|| Description of table||
+|Account| Represents Optimizely projects.|
+
+*Additionally, specify new columns are introduced*
+|| Source model name || Source model attribute/column ||  Description of attribute/column||
+|Account|admin_account_id| represents first project created by user.|
+
+
+
+
+*Design doc link*: [design_doc_link|http://example.com]
+
+*Refer [go/dw_schema|http://go/dw_schema/] for DW documentation*
