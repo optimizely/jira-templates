@@ -1,0 +1,23 @@
+*Customer name:*
+
+*Are they a prospect or existing customer?*
+
+*Do they have a project? If so, ID?*
+
+*Is the snippet live somewhere?*
+
+*If so, URL to the page with it installed?*
+
+*How much traffic does it receive daily?*
+
+*Has it been receiving traffic uninterrupted at that level?*
+
+*For how long?*
+
+*Is this an 'investigation' or 'best practices' question?*
+
+*Investigation: Is there a claim/data to look into? What tool(s) were used to gather/observe?*
+
+*Relevant deadlines:*
+
+*What is their specific performance question?*
