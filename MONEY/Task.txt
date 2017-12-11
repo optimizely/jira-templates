@@ -1,0 +1,8 @@
+*Background about the issue:*
+*Proposed Solution / Expected Product Behavior / Acceptance Criteria:*
+*Person to contact for futher details:*
+*Any reference docs:*
+# <Link1>
+# <LInk2>
+
+*Further details:*
