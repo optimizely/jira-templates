@@ -1,17 +1,12 @@
 
 
-
-
-
-For every SDK release, ensure each of the following are complete:
-
-|| Done || Task                                                          || Owner   ||
-|       | End-to-end tests complete + passing                            | Eng       |
-|       | Update changelog                                               | Eng       |
-|       | Publish developer docs                                         | Eng       |
-|       | Publish code sample                                            | Eng       |
-|       | Update GitHub master branch                                    | Eng       |
-|       | Publish to language-specific package manager(s)                | Eng       |
-|       | Update internal roadmap                                        | Eng       |
-|       | Post notification in #fullstack and #visible-changes via Slack | Eng       |
-|       | Notify customers in-app via Pendo                              | Education |
+For every SDK release, ensure each of the following are complete (insert an x in brackets when done):
+[]End-to-end tests complete + passing
+[]Update changelog
+[]Publish developer docs
+[]Publish code sample
+[]Update GitHub master branch
+[]Publish to language-specific package manager(s)
+[]Update internal roadmap
+[]Post notification in #fullstack and #visible-changes via Slack
+[]Tell Education to Notify customers in-app via Pendo
