@@ -1,7 +1,7 @@
 
 
 For every SDK release, ensure each of the following are complete:
-(/) Review the checklist
+(/) Review the following checklist
 () End-to-end tests complete + passing
 () Update changelog
 () Publish developer docs
