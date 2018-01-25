@@ -1,13 +1,13 @@
 
 
 For every SDK release, ensure each of the following are complete:
-[x] Review the checklist
-[ ] End-to-end tests complete + passing
-[ ] Update changelog
-[ ] Publish developer docs
-[ ] Publish code sample
-[ ] Update GitHub master branch
-[ ] Publish to language-specific package manager(s)
-[ ] Update internal roadmap
-[ ] Post notification in #fullstack and #visible-changes via Slack
-[ ] Tell Education to Notify customers in-app via Pendo
+(/) Review the checklist
+() End-to-end tests complete + passing
+() Update changelog
+() Publish developer docs
+() Publish code sample
+() Update GitHub master branch
+() Publish to language-specific package manager(s)
+() Update internal roadmap
+() Post notification in #fullstack and #visible-changes via Slack
+() Tell Education to Notify customers in-app via Pendo
