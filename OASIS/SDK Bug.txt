@@ -1,0 +1,13 @@
+* Datafile URL (Datafile revision number if issue is no longer current): 
+* SDK Language:
+* Platform Version (Java 1.8, Node 6.0, Python 2.7, etc...): 
+* *Please attach SDK logs from user. Attach raw events export if it's a results issue. Attach stack trace if it's a crash.*
+
+If it's reproducible, please provide steps to reproduce:
+# 
+# 
+# 
+
+Other useful questions:
+* How is the user setting up or installing the SDK?
+* Is there sample code for the customer's SDK setup and usage?
