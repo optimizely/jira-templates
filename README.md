@@ -19,3 +19,4 @@ The template with the most specificity will be used over the more generic templa
 - If none of the following are defined: `/WEB/Bug.txt`, `/WEB/default.txt`, `/default/Bug.txt`, then `/default/default.txt` will be used for all Bugs under WEB.
 
 Note: This is a public repository
+
