@@ -1,0 +1,23 @@
+--------------------------------------------------------------------------------
+-- Is this actionable?
+--------------------------------------------------------------------------------
+1. What is the action to be taken or decision to be made because of this information?
+
+
+--------------------------------------------------------------------------------
+-- How should we prioritize it?
+--------------------------------------------------------------------------------
+2. Who is the key stakeholder asking for this information?
+
+
+3. What OKR does the action or decision contribute to?
+
+
+4. How much ARR stands to be made or lost because of this action or decision?
+
+
+--------------------------------------------------------------------------------
+-- Request Body
+--------------------------------------------------------------------------------
+5. Please provide a brief description of your request.  E.g. “I would like to measure X over Y time period, for Z customers, segmented by A, B, and C.”
+
