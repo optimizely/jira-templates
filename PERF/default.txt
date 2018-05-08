@@ -8,6 +8,8 @@
 
 *If so, URL to the page with it installed?*
 
+*If so, URL for the resultant healthcheck run (go/healthcheck)?
+
 *How much traffic does it receive daily?*
 
 *Has it been receiving traffic uninterrupted at that level?*
