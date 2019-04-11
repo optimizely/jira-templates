@@ -1,0 +1,19 @@
+*Name of Invention:*
+
+*List of All Inventors:*
+(Provide a list of anyone who materially contributed to the ideas behind the invention)
+
+*General Description*
+(Provide one or two sentence description of the invention.)
+
+*What's new and innovative about this invention?*
+(What is new and novel about this invention? Please describe what makes this invention different from what is already available in the marketplace or in publicly-available information (if anything).)
+
+*How does the invention work?*
+(Provide a link to your PRD or a detailed description of the invention's operation, function and use.)
+
+*Public Use / Disclosure*
+(Have we used or disclosed the above invention publicly (for example, through a product demonstration or in a publication? If so, please provide dates for each disclosure)
+
+*Beta / Launch Dates*
+(Have we launched this invention in beta or GA? If so, please provide dates for each.)
