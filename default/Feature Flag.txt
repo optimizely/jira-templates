@@ -1,12 +1,10 @@
 *Feature ON:*
 
-
 *Feature OFF:*
 
 *GIT Location (optional):*
 
 *Risk to Roll Back Feature:*
-
 
 *Exit Criteria:*
 
