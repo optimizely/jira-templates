@@ -1,6 +1,7 @@
+<Add a short paragraph explaining what the Epic is for>
+
+<Include any additional links/resources/designs here in the description>
+
 Product Requirements Document (PRD): <link>
 Technical Design Document: <link>
 Design Resources: <link>
-
-Description
-<Insert description here>
