@@ -1,7 +1,6 @@
 <Add a short paragraph explaining what the Epic is for>
 
-<Include any additional links/resources/designs here in the description>
-
-Product Requirements Document (PRD): <link>
-Technical Design Document: <link>
+<PRD, TDD/ADD, and Github Project Links can go into their own dedicated fields in Jira>
+<Include any additional links/resources/designs here in the description.
+Use this space as a living wiki for folks to educate themselves on your Epic. Examples below>
 Design Resources: <link>
